@@ -15,3 +15,5 @@
 > git checkout master – вернуться к актуальному состоянию и продолжить работу
 
 > git diff – увидеть разницу между текущим файлом и закоммиченным файлом
+
+![Текст с описанием картинки](https://gas-kvas.com/uploads/posts/2023-01/1673523392_gas-kvas-com-p-mozg-detskii-risunok-18.jpg)
