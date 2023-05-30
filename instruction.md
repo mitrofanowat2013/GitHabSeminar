@@ -22,3 +22,5 @@
 
 > "git branch" <branch_name> – создать новую ветку под названием "branch name"
 
+
+> "git branch -d <название ветки>" – удалить ветку под названием "branch name"
