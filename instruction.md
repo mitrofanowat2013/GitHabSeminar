@@ -19,3 +19,6 @@
 ![Текст с описанием картинки](https://gas-kvas.com/uploads/posts/2023-01/1673523392_gas-kvas-com-p-mozg-detskii-risunok-18.jpg)
 
 # Основные команды 2-го семинара
+
+> "git branch" <branch_name> – создать новую ветку под названием "branch name"
+
